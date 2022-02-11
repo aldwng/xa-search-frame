@@ -8,5 +8,6 @@ public enum ErrCode {
   OK,
   WRONG_PARAMETERS,
   SERVER_WRONG,
-  NONE
+  INTERNAL_FAILURE,
+  NONE,
 }
