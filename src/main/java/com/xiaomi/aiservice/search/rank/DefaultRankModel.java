@@ -8,7 +8,7 @@ import com.xiaomi.aiservice.search.SearchResult;
  * @author wanglingda@xiaomi.com
  */
 
-public class RankModelImpl implements RankModel {
+public class DefaultRankModel implements RankModel {
 
   @Override
   public SearchResult rank(RichQuery richQuery, SearchCarrier carrier, SearchResult result) {

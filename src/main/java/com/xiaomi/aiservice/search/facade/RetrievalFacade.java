@@ -8,9 +8,7 @@ import com.xiaomi.aiservice.search.SearchResult;
  * @author wanglingda@xiaomi.com
  */
 
-public interface RankFacade {
+public interface RetrievalFacade {
 
-  SearchResult preRank(RichQuery richQuery, SearchCarrier searchCarrier, SearchResult searchResult);
-
-  SearchResult rank(RichQuery richQuery, SearchCarrier carrier, SearchResult result);
+  SearchResult retrieve(RichQuery richQuery, SearchCarrier searchCarrier);
 }
