@@ -1,7 +1,7 @@
-package com.xiaomi.aiservice.search;
+package net.xa.sf.frame.search;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public enum ErrCode {

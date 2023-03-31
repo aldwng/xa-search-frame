@@ -1,9 +1,9 @@
-package com.xiaomi.aiservice.query;
+package net.xa.sf.frame.query;
 
 import java.util.Map;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public class RichQuery {

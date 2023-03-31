@@ -1,9 +1,9 @@
-package com.xiaomi.aiservice.query;
+package net.xa.sf.frame.query;
 
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public class CheckUtils {

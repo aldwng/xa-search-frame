@@ -1,12 +1,12 @@
-package com.xiaomi.aiservice.oakbay;
+package net.xa.sf.frame.index;
 
 import java.io.Serializable;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
-public class LindenDoc implements Serializable {
+public class IndexDoc implements Serializable {
 
   protected String id;
   protected String cp;

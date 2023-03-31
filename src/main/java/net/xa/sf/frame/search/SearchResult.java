@@ -1,4 +1,4 @@
-package com.xiaomi.aiservice.search;
+package net.xa.sf.frame.search;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -9,10 +9,10 @@ import java.util.stream.Collectors;
 
 import org.apache.commons.lang3.StringUtils;
 
-import static com.xiaomi.aiservice.search.ErrCode.OK;
+import static net.xa.sf.frame.search.ErrCode.OK;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public class SearchResult implements Serializable {

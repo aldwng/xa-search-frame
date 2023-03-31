@@ -1,9 +1,9 @@
-package com.xiaomi.aiservice.oakbay;
+package net.xa.sf.frame.index;
 
 import java.io.Serializable;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public class SrcData implements Serializable {

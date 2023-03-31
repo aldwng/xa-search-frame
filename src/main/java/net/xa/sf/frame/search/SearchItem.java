@@ -1,9 +1,9 @@
-package com.xiaomi.aiservice.search;
+package net.xa.sf.frame.search;
 
 import java.io.Serializable;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public class SearchItem implements Serializable {

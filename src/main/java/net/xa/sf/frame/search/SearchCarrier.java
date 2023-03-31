@@ -1,11 +1,11 @@
-package com.xiaomi.aiservice.search;
+package net.xa.sf.frame.search;
 
 import java.io.Serializable;
 
 import com.google.gson.JsonObject;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public class SearchCarrier implements Serializable {

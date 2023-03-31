@@ -1,11 +1,11 @@
-package com.xiaomi.aiservice.search.facade;
+package net.xa.sf.frame.search.facade;
 
-import com.xiaomi.aiservice.query.RichQuery;
-import com.xiaomi.aiservice.search.SearchCarrier;
-import com.xiaomi.aiservice.search.SearchResult;
+import net.xa.sf.frame.query.RichQuery;
+import net.xa.sf.frame.search.SearchCarrier;
+import net.xa.sf.frame.search.SearchResult;
 
 /**
- * @author wanglingda@xiaomi.com
+ * @author aldwang
  */
 
 public interface RankFacade {
